@@ -91,41 +91,6 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="testCompile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="testCompile" type="462c0819:PsiDirectoryNode" />
-              <item name="default-testCompile" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -248,9 +213,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCucumberTest - 2018.05.24 at 15h 20m 27s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Feature__is_it_friday_yet - 2018.05.24 at 15h 21m 13s.xml">
       <configuration name="Feature: is_it_friday_yet" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -278,36 +240,39 @@
     <history-entry file="RunCucumberTest - 2018.05.24 at 15h 54m 01s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunCucumberTest - 2018.05.24 at 16h 13m 39s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44225723" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.155625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -344,28 +309,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FirstProject/Stepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#945#946#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
           </folding>
         </state>
       </provider>
