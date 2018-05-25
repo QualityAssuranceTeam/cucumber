@@ -5,17 +5,6 @@ import cucumber.api.java.en.When;
 import cucumber.api.java.en.Then;
 import static org.junit.Assert.*;
 
-// The following class is being tested.
-class IsItFriday {
-    static String isItFriday(String today) {
-
-        if(today == "Friday"){
-            return "Yep";
-        }
-        else return "Nope";
-    }
-}
-
 // Step definitions
 public class Stepdefs {
     private String today;
